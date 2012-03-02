@@ -35,9 +35,7 @@ used by many big companies. Roadrunner also uses Fabric to run ssh commands on t
 
 Dependencies
 ===============================
-RoadRunner uses the following 
-
-1. Gearman 0.28
-2. Python Wrapper for Gearman gearman-2.0.2
-3. Fabric 1.3.3
+1. Gearman [http://gearman.org/]
+2. Python Wrapper for Gearman [http://pypi.python.org/pypi/gearman/2.0.2]
+3. Fabric [http://pypi.python.org/pypi/Fabric]
 
