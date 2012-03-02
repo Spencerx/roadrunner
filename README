@@ -33,4 +33,11 @@ Will Roadrunner scale?
 Roadrunner uses Gearman as the job distribution mechanism. Gearman is a proven job distribution engine
 used by many big companies. Roadrunner also uses Fabric to run ssh commands on the hosts.
 
+Dependencies
+===============================
+RoadRunner uses the following 
+
+1. Gearman 0.28
+2. Python Wrapper for Gearman gearman-2.0.2
+3. Fabric 1.3.3
 
